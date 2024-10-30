@@ -15,7 +15,7 @@ There are many files here, which are the evolutions of the final script (can be 
 
 ## Loss curve
 
-![Figure_1](./Figure_1.png)
+![Figure_1](./code/Figure_1.png)
 
 ## Dependency
 
@@ -47,7 +47,7 @@ epochs_max: 200
 
 ## Failure case
 
-![Figure_2](./Figure_2.png)
+![Figure_2](./code/Figure_2.png)
 
 The first row is the input images, second row is combination of wrong predictions, third row is combination of labels
 
